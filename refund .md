@@ -583,27 +583,34 @@ pre.editor-colors .fold-marker:after {
 </style>
         </head>
         <body class='markdown-preview' data-use-github-style><p>Examination Branch</p>
-<p>No.COE/145/............................Dated:......................</p>
-<p>Principal</p>
-<p>Through: Superintendent Accounts</p>
-<p>The answer sheets of ESE May-2019 have been disposed Vide purchase order No.148/Acctts/Exam/1670 dated: 29-01-2021, as per the terms and conditions (copy enclosed). The complete details of the disposed answer sheets and the payment received is given below. </p>
-<p>You are requested to make the invoice in the name of M/s. Gulati Trading Company G.S.T. No.-03AEUPG5359N1ZW. </p>
-<p>Weight of disposed answer sheets    =    1340 Kg</p>
-<p>Rate as per quotation=         Rs.15.50/-per Kg.</p>
-<p>Amount=    Rs. 20,770/-</p>
-<p>2.5% C.G.S.T=519.25/-</p>
-<p>2.5% S.G.S.T=519.25/-</p>
-<p>Total=21,809/- (Twenty-One Thousand Eight Hundred and Nine only)</p>
-<p>Please find enclosed herewith the original Cheque No. 232348 dated 03-02-2021 for Rs. 21,809-00 (Twenty-One Thousand Eight Hundred and Nine only).</p>
-<p>Controller of Examinations</p>
-<p>Encl:-</p>
-<ol>
-<li><p>Slips of the Weight of disposed answer sheets</p>
-</li>
-<li><p>Original Cheque</p>
-</li>
-<li><p>Copy of Affidavit of the supplier 
- </p>
-</li>
-</ol></body>
+<p>No. COE/137/................................Dated:...............</p>
+<p>I/c. Accounts Branch</p>
+<p>Please find below the list of students who has done online transition more than once when they were paying the applicable exam form fee. Kindly verify it and refund the amount to below mentioned student: </p>
+<table>
+<thead>
+<tr>
+<th>Sr.     No.</th>
+<th>University Roll No.</th>
+<th>Beneficiary Name</th>
+<th>Bank Name</th>
+<th>IFSC Code</th>
+<th>Account No.</th>
+<th>Amount</th>
+<th>Remarks</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>1805347</td>
+<td>Vikas Kumar Chaudhary</td>
+<td>SBI</td>
+<td>SBIN0006530</td>
+<td>40006740973</td>
+<td>2000</td>
+<td>Double  Transition</td>
+</tr>
+</tbody></table>
+
+
+<p>Controller of Examination  </p></body>
       </html>

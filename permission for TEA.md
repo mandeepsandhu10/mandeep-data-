@@ -2,7 +2,7 @@
       <html>
         <head>
             <meta charset="utf-8" />
-            <title>EXAM FORM FILLING SCHEDULE LETTER NOV 2020</title>
+            <title>Markdown to HTML</title>
             <style>.markdown-preview:not([data-use-github-style]) { padding: 2em; font-size: 1.2em; color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); overflow: auto; }
 .markdown-preview:not([data-use-github-style]) > :first-child { margin-top: 0px; }
 .markdown-preview:not([data-use-github-style]) h1, .markdown-preview:not([data-use-github-style]) h2, .markdown-preview:not([data-use-github-style]) h3, .markdown-preview:not([data-use-github-style]) h4, .markdown-preview:not([data-use-github-style]) h5, .markdown-preview:not([data-use-github-style]) h6 { line-height: 1.2; margin-top: 1.5em; margin-bottom: 0.5em; color: rgb(255, 255, 255); }
@@ -583,52 +583,12 @@ pre.editor-colors .fold-marker:after {
 </style>
         </head>
         <body class='markdown-preview' data-use-github-style><p>Examination Branch</p>
-<p>No. COE/101/............................ Dated:..................</p>
-<p>No. COE/137/                                                     Dated:</p>
-<p>Following is the schedule for filling and submission of (Regular) Examination forms of 1st year of UG, PG and BCA courses and Reappear Examination forms of all Semester for UG, PG Examinations Nov / Dec-2020:</p>
-<p>Regular Candidates:             From 11.02.2021 to 15.02.2021 (3:00 pm)</p>
-<p>Reappear Candidates:            From 10.02.2021 to 15.02.2021 (3:00 pm)</p>
-<p>Examination fee details are as follows:</p>
-<p>Regular candidates:            Already paid (included in the semester fee)</p>
-<p>Reappear candidates:</p>
-<p>Rs.700/- per semester (for 2012 Admission year)</p>
-<p>Rs. 1000/- per semester (for 2013, 2014 &amp; 2015 Admission year)</p>
-<p>Rs. 1200/- per semester (for Admission Batch 2016 &amp; Onwards)</p>
-<p>Correction fee of Examination Form:</p>
-<p>Rs.700/- (for already submitted examination form for reappear examination)</p>
-<p>Late Fee Schedule of Examination form submission</p>
-<p>Rs.1000/- per Exam Form            From 16-02-2021 to 17-02-2021</p>
-<p>Rs.2000/- per Exam Form            From 18-02-2021 to 19-02-2021</p>
-<p>Rs.5000/- per Exam Form            from 20-02-2021 to 01-03-2021*</p>
-<p>(with the permission of Principal)</p>
-<p>*No request for filling of examination form will be entertained after 01-03-2021</p>
-<p>Note:</p>
-<ol>
-<li><p>All the candidates shall submit and lock their Examination form using their login credential at <a href="https://academics.gndec.ac.in/">https://academics.gndec.ac.in/</a> through the tab “Exam Form Status”.</p>
-</li>
-<li><p>After successfully submission and locking of examination form, student can view received status of examination form in their login again through the tab “Exam Form Status”. The exam form received status must be ‘Yes’ for all the courses.</p>
-</li>
-<li><p>For updates related to End Semester Examinations Nov/Dec -2020, all candidates are advised to visit institution website regularly.</p>
-</li>
-<li><p>The examination schedule will be announced 15 days before the commencement of examination.</p>
-</li>
-<li><p>The schedule for filling and submission of reappear examination form will be notified later.</p>
-</li>
-<li><p>For any technical issues write an email to <a href="mailto:technicalsupport@gndec.ac.in">technicalsupport@gndec.ac.in</a>.</p>
-</li>
-</ol>
+<p>No. COE/101/.................. Date:................</p>
+<p>Principal</p>
+<p>Kindly allow to serve light refreshment (one cup tea 150ml) and Biscuit 50gm/Namkeen 20gm to the staff members who are performing duties during End Semester Examination Nov-2020. The Payment may be made out of Exam Fund.
+</p>
 <p>Controller of Examinations</p>
-<p>Distribution: -</p>
-<ol>
-<li><p>Principal - for information please</p>
-</li>
-<li><p>All HOD’s for information and to display on Notice Boards</p>
-</li>
-<li><p>Dean (Academics)</p>
-</li>
-<li><p>Chairman (Automation Committee) for n.a.</p>
-</li>
-<li><p>Supdtt. (Account)</p>
-</li>
-</ol></body>
+<p>Allowed/Not Allowed</p>
+<p>Principal 
+ </p></body>
       </html>

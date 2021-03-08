@@ -2,7 +2,7 @@
       <html>
         <head>
             <meta charset="utf-8" />
-            <title>Markdown to HTML</title>
+            <title>practical bill mca may 2020</title>
             <style>.markdown-preview:not([data-use-github-style]) { padding: 2em; font-size: 1.2em; color: rgb(171, 178, 191); background-color: rgb(40, 44, 52); overflow: auto; }
 .markdown-preview:not([data-use-github-style]) > :first-child { margin-top: 0px; }
 .markdown-preview:not([data-use-github-style]) h1, .markdown-preview:not([data-use-github-style]) h2, .markdown-preview:not([data-use-github-style]) h3, .markdown-preview:not([data-use-github-style]) h4, .markdown-preview:not([data-use-github-style]) h5, .markdown-preview:not([data-use-github-style]) h6 { line-height: 1.2; margin-top: 1.5em; margin-bottom: 0.5em; color: rgb(255, 255, 255); }
@@ -582,21 +582,47 @@ pre.editor-colors .fold-marker:after {
 }
 </style>
         </head>
-        <body class='markdown-preview' data-use-github-style><p>No.COE/111/<strong><strong>__</strong></strong>                    Dated: <strong><strong>____</strong></strong></p>
-<p>All Exam Coordinator </p>
-<p>Through: HOD </p>
-<p>A meeting of exam coordinators will be held on 27-01-2021 at 2:30 PM in Examination Branch. All are requested to make it convenient to attend the same.</p>
-<p>Controller of Examinations </p>
-<p>Copy to: -</p>
-<ol>
-<li><p>Principal for information</p>
-</li>
-<li><p>All Concerned Through HOD</p>
-</li>
-<li><p>Dr. Randhir Singh, Er. Jagdeep Singh and Ms. Jaspreet Kaur - also to attend the meeting </p>
-</li>
-<li><p>Office copy
- </p>
-</li>
-</ol></body>
+        <body class='markdown-preview' data-use-github-style><p>Examination Branch</p>
+<p>No.COE/124/.................Dated:...................</p>
+<p>Principal</p>
+<p>Through Supdt. Accounts</p>
+<p>Sub: Submission of Bill of Practical Viva Voce Examination Duties for End Semester Examinations, May -2020.</p>
+<p>Sir,</p>
+<p>Please find enclosed herewith original bill of Practical Viva Voce Examination duties May-2020 with detail as follows:-</p>
+<table>
+<thead>
+<tr>
+<th>Sr. No.</th>
+<th>Name of Employee</th>
+<th>Department</th>
+<th>Amount</th>
+<th>Total Amount</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>1</td>
+<td>Dinesh Anand</td>
+<td>MCA</td>
+<td>170+170</td>
+<td>340</td>
+</tr>
+<tr>
+<td>2</td>
+<td>Amit Jain</td>
+<td>MCA</td>
+<td>170+240+170</td>
+<td>580</td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+<td>MCA</td>
+<td>Total</td>
+<td>920</td>
+</tr>
+</tbody></table>
+<p>Dealing Hand</p>
+<p>Deputy Controller (Conduct)</p>
+<p>AR (Exams.)</p>
+<p>Controller of Examinations</p></body>
       </html>
