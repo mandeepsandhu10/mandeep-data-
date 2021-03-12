@@ -15,7 +15,8 @@ The Centre No. 01 (Morning and Evening) for End Semester Examinations Nov-2020 w
 
 The students should report in the exam centre accordingly.
 
-<bri>
+</br>
+
 
 
 Controller of Examinations

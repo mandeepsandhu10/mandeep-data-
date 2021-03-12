@@ -90,16 +90,13 @@ Grand Total: Rs. 23,16,500-00
 The heads will be flexible i.e. the same will be adjustable from other heads also.
 
 </BR>
-</BR>
 
 
 Controller of Examinations
-</BR>
 </BR>
 
 Approved / Not approved
 </BR>
 </BR>
-
 
 Principal
