@@ -1,0 +1,32 @@
+No.COE/			Dated:…………..
+Principal
+Through Supdt. Accounts
+Sub: Submission of Bill of Practical Viva Voce Examination Duties for End Semester Examinations, May -2020.
+Sir,
+Please find enclosed herewith original bill of Practical Viva Voce Examination duties May-2020 with detail as follows:-
+Sr. No.	Name of Employee 	Department 	Amount 	Total Amount
+1	Ajitpal Singh	CE	640+660	1300
+2	Amandeep Singh	CE	710+570	1280
+3	Balihar Singh	CE	710+1000	1710
+4	Bhupinder Singh	CE	570+660	1230
+5	Charanjit Singh	CE	670+1940	2610
+6	Gagandeep Kaur	CE	690+570	1260
+7	Gurdeepak Singh	CE	690	690
+8	Gurpuneet Singh	CE	580	580
+9	Heena Malhotra	CE	710	710
+10	inderpreet kaur	CE	690	690
+11	jagbir Singh	CE	570	570
+12	Mandeep Kaur	CE	10+30+570	610
+13	Manmeet Kaur	CE	560	560
+14	Manvinder Kingra	CE	10+710	720
+15	Navneet Singh	CE	560+640+10	1210
+16	Pardeep Singh	CE	1000+670	1670
+17	Prabhjot Singh	CE	560	560
+18	Pritpal Kaur	CE	690+10+10+20	730
+19	Pushpinder Singh	CE	570+10+30	610
+20	Sandeep Kaur	CE	690+20+10+10+20	750
+21	Savleen Takkar	CE	580	580
+22	Sukhwiner Singh	CE	710	710
+23	Tanpreet Singh	CE	690+710	1400
+24	Yuvraj Singh	CE	560	560
+				23300
