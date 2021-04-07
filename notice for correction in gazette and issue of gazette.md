@@ -1,10 +1,14 @@
-Examination Branch
+# Examination Branch
 
-No. COE/104/…………………………..Dated:……………………….
+## GNDEC, Ludhiana
+
+No. COE/104/…………………………Dated:……………………….
 
 All HOD’s
 
-The new updated Performa for correction and issue of University result notification are attached here with and also available at https://gndec.ac.in/?q=node/85. If the student has not received their University result notification of any exam session or any correction required in these documents the student has to fill attached form.
+The updated performa for correction and issue of University result notification are attached here with and also available at https://gndec.ac.in/?q=node/85. If the student has not received their University result notification of any exam session or any correction required in these documents then students are required to fill these forms.
+
+From 01-04-2021 old form will not be accepted.
 
 </br>
 
