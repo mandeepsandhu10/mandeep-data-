@@ -8,7 +8,7 @@ Principal
 Through: Supdt. Accounts
 
 Subject: Payment of Bills of End Semester Examinations May-2020.
-	
+
 Sir,
 
 Please find enclosed herewith the original bills of Centre Superintendents and other staff members for End Semester Examinations May-2020 and make the payment accordingly.
@@ -26,6 +26,7 @@ The detail of Bills is as under: -
 |         |                           | Total  |            | 34110        |
 
 
+</br>
 
 
 Controller of Examinations
