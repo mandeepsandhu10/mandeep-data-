@@ -2,7 +2,10 @@
 
 No. COE/127/.................. Date: ...................
 
-Minutes of Meeting of Examination Committee held on 19-04-2021 at 10:00 am in Committee Room of Guru Nanak Dev Engineering College, Ludhiana.
+Minutes of Meeting
+
+A meeting of all examination members were conducted on 19/04/21 in the committee room at 10:00 AM to discuss the conduct of pending examination of semester nov 2020, which were suspended w.e.f. March 20, 2021 in light of order of Punjab Government.
+
 
 Following were present:
 
@@ -14,7 +17,7 @@ Following were present:
 
 4.	Dr. Jagdeep Singh (PE)
 
-5.	Dr. Jasbir Singh Saini
+5.	Er. Jasbir Singh Saini
 
 6.	Er. Harminder Kaur
 
@@ -22,19 +25,25 @@ Following were present:
 
 8.	Er. Jagdeep Singh (IT)
 
-Following Decisions were taken unanimously: -
+9. Ms. Jaspreet Kaur
 
-On the basis of PTU notification no. IKGPTU/Exam/NOV-2020/020 dated: 16/04/21 a meeting of all examination members were conducted on 19/04/21 in the committee room at 10:00 AM which lasts for about 1 hour.
+Controller of Examination conveyed that Examination Branch has been asked to conduct the pending examination of session Nov-2020 w.e.f. 27th April, 2021 in a distance proctored mode and asked all members about the feasibility. All present expressed that team is ready to conduct the exam on the said date.     
 
-•	The suspended examination of Nov 2020 session w.e.f. 20th March 2021 due to orders of Punjab Government shall be conducted w.e.f 27th April 2021 in distance proctored mode.
+Following Decisions were taken unanimously for the smooth conduct of said examination:-
 
-•	The students will write answer sheets from the place of their choice, which meets the requirement of noises free, good light, and good internet connectivity to enable proctoring through video conferencing. Examination will be exactly the same (pattern and duration) to off-line and close book examination. The date sheet and detailed instruction shall be issued later.
 
-•	The paper would be conducted on A4 sheets and no. of sheets would be displayed in the detailed instructions.
+•	The students will write answer sheets from the place of their choice, which meets the requirement of noises free, good light, and good internet connectivity to enable proctoring through video conferencing.
 
-•	It was suggested that the exam may be proctored through Google meet and question papers may be uploaded on Moodle. Also, the answer sheets may be submitted through Moodle. The decision of this will depend upon Incharge- Computer Centre.
+Examination will be exactly the same (pattern and duration) as that of off-line and close book examination. The date sheet and detailed instruction shall be issued later. { responsibility  Assistant Controller (Conduct)}.
 
-•	The faculty and staff deputed for the conduct of Nov 2020 examination would be the continuing their duties. Also, the whole process of conducting and submission of answer sheets would be managed by the invigilator.
+•	The paper would be conducted on A4 sheets and no. of sheets would be notified in the detailed instructions { responsibility  Assistant Controller (Conduct)}.
+
+•	It was suggested that the exam may be proctored through Google Meet and question papers may be uploaded on Moodle. Also, the answer sheets may be submitted through Moodle. O/c. Computer Centre will evaluate to convey finally how to do this (responsibility Er. Jasbir Singh Saini)  
+
+
+
+
+•	The faculty and staff deputed for the conduct of Nov 2020 examination would be the continuing invigilation their duties. Also, the whole process of conducting and submission of answer sheets would be managed by the invigilator.
 
 •	The evaluation of the answer sheets would take place in the same manner as the offline exams conducted at the college campus i.e. full secrecy would be maintained while evaluation.
 
