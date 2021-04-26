@@ -11,7 +11,7 @@ You are requested to provide the above mentioned upto 1:00 pm today for the smoo
 
 </br>
 
-Controller of Examinations
+Assistant Controller (Conduct)
 
 Copy to:
 
