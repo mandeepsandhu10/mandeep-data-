@@ -26,7 +26,6 @@ Following are the details of the final recommendations of Unfair Means Cases of 
 | 12.        | Gurveer Kaur       | 1917026       | ECE    | PCEC-105               | 3    | His Performance in this external theory subject stands cancelled |
 | 13.        | Priyanka           | 1917062       | ECE    | PCEC-105               | 3    | His Performance in this external theory subject stands cancelled |
 
-
 Further any student may submit an appeal to Principal, GNDEC in regards to the approved final recommendations of CRC committee within 21 days from the issue of the decision from the office of COE through their department office with appropriate recommendation from the Head of Department.
 
 </br>
