@@ -4,7 +4,7 @@ No. COE/144/...........Date:..........
 
 CONFIDENTIAL
 
-HOD (CSE)
+HOD (IT, ME,CE & ECE)
 
 Subject:   Decisions about Unfair Means Cases.
 
