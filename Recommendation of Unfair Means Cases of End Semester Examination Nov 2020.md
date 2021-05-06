@@ -10,21 +10,21 @@ Subject: - Recommendation/s of Unfair Means Cases of End Semester Examination- N
 
 Following are the details of the final recommendations of Unfair Means Cases of End Semester Examination, Nov-2020 taken after hearing of the candidates by the Complaint Redressal Committee (meeting held on 18-02-2021):
 
-| Sr. No.| Name               | Uni. Roll No. | Branch | Concerned Th. Paper | Sem. | Final Recommendation of Unfair Means Case/s                      |
-|------------|--------------------|---------------|--------|------------------------|------|------------------------------------------------------------------|
-| 1.         | Harmanpreet Kaur   | 1921039       | IT     | HSMIT-101              | 3    | Her Performance in this external theory subject stands cancelled |
-| 2.         | Rahul Kumar Paswan | 1930126       | ME     | ESME-101               | 3    | His Performance in this external theory subject stands cancelled |
-| 3.         | Rahul              | 1914084       | CE     | ESCE-101               | 3    | His Performance in this external theory subject stands cancelled |
-| 4.         | Sumandeep Singh    | 1914115       | CE     | ESCE-101               | 3    | His Performance in this external theory subject stands cancelled |
-| 5.         | Tanveer Singh      | 1830118       | ME     | PCME-112               | 5    | His Performance in this external theory subject stands cancelled |
-| 6.         | Tanveer Singh      | 1806069       | ME     | PCME-112               | 5    | His Performance in this external theory subject stands cancelled |
-| 7.         | Rahul Kumar        | 1917113       | ECE    | PCEC-104               | 3    | His Performance in this external theory subject stands cancelled |
-| 8.         | Harleen Kaur       | 1921037       | IT     | PCIT-102               | 3    | His Performance in this external theory subject stands cancelled |
-| 9.         | Deepak Kumar       | 1830378       | ME     | PCME-114               | 5    | No Penalty                                                       |
-| 10.        | Gurpreet Singh     | 1914042       | CE     | PCCE-101               | 3    | His Performance in this external theory subject stands cancelled |
-| 11.        | Yadwinder Singh    | 1914120       | CE     | PCCE-102               | 3    | No Penalty                                                       |
-| 12.        | Gurveer Kaur       | 1917026       | ECE    | PCEC-105               | 3    | His Performance in this external theory subject stands cancelled |
-| 13.        | Priyanka           | 1917062       | ECE    | PCEC-105               | 3    | His Performance in this external theory subject stands cancelled |
+| Sr. No.    | Name               | Uni. Roll No. | Branch | Sub. Code / Paper ID | Sem. | Final Recommendation of Unfair Means Case/s                                           |
+|------------|--------------------|---------------|--------|----------------------|------|---------------------------------------------------------------------------------------|
+| 1.         | Harmanpreet Kaur   | 1905337       | IT     | HSMIT-101/16044      | 3    | Her Performance in this external theory subject with paper -ID 16044 stands cancelled |
+| 2.         | Rahul Kumar Paswan | 1905565       | ME     | ESME-101/16071       | 3    | His Performance in this external theory subject with paper -ID 16071 stands cancelled |
+| 3.         | Rahul              | 1904896       | CE     | ESCE-101/16024       | 3    | His Performance in this external theory subject with paper -ID 16024 stands cancelled |
+| 4.         | Sumandeep Singh    | 1904937       | CE     | ESCE-101/16024       | 3    | His Performance in this external theory subject with paper -ID 16024 stands cancelled |
+| 5.         | Tanveer Singh      | 1805717       | ME     | PCME-112/16378       | 5    | His Performance in this external theory subject with paper -ID 16378 stands cancelled |
+| 6.         | Vajinder Singh     | 1806069       | ME     | PCME-112/16378       | 5    | His Performance in this external theory subject with paper -ID 16378 stands cancelled |
+| 7.         | Rahul Kumar        | 1905252       | ECE    | PCEC-104/16034       | 3    | His Performance in this external theory subject with paper -ID 16034 stands cancelled |
+| 8.         | Harleen Kaur       | 1905335       | IT     | PCIT-102/16041       | 3    | Her Performance in this external theory subject with paper -ID 16041 stands cancelled |
+| 9.         | Deepak Kumar       | 1905844       | ME     | PCME-114/16381       | 5    | No Penalty                                                                            |
+| 10.        | Gurpreet Singh     | 1904846       | CE     | PCCE-101/16020       | 3    | His Performance in this external theory subject with paper -ID 16020 stands cancelled |
+| 11.        | Yadwinder Singh    | 1904941       | CE     | PCCE-102/16021       | 3    | No Penalty                                                                            |
+| 12.        | Gurveer Kaur       | 1905211       | ECE    | PCEC-105/16035       | 3    | Her Performance in this external theory subject with paper -ID 16035 stands cancelled |
+| 13.        | Priyanka           | 1905249       | ECE    | PCEC-105/16035       | 3    | Her Performance in this external theory subject with paper -ID 16035 stands cancelled |
 
 
 Further any student may submit an appeal to Principal, GNDEC in regards to the approved final recommendations of CRC committee within 21 days from the issue of the decision from the office of COE through their department office with appropriate recommendation from the Head of Department.
