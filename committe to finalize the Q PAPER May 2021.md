@@ -11,7 +11,9 @@ The End Semester Examination May-2021 session will be conducted through online m
 
 2.	Dr. Parminder Singh- Professor and HOD (CSE) Cum Dean Student Welfare- Member
 
-3.	Dr. Randhir Singh- Deputy Controller- Paper Setting & Printing- Member
+3. Prof. Jasbir Singh Saini- HOD (Dept. of Computer Application) - Member
+
+4. Dr. Randhir Singh- Deputy Controller- Paper Setting & Printing- Member
 
 </BR>
 
