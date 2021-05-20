@@ -27,3 +27,10 @@ Rs.700/- (for already submitted examination form for regular examination)
 </BR>
 
 Controller of Examinations
+
+Distribution: -
+1.	Principal - for information please
+2.	All HOD’s for information and to display on Notice Boards
+3.	Dean (Academics)
+4.	Chairman (Automation Committee) for n.a.
+5.	Supdtt. (Account)
