@@ -11,7 +11,7 @@ Subject:   Final recommendation/s of Appeal Committee for UMC cases of End Semes
 Following are the details of the final recommendations by the appeal committee for review of UMC cases of End Semester Examination, Nov-2020 taken after hearing of the candidates by the appeal committee (meeting held on 20-05-2021):
 
 | Sr. No. | Name             | Uni. Roll No. | Branch | Concerned Theory Paper | Sem. | Final Recommendation of Unfair Means Case/s                      |
-|---------|------------------|---------------|--------|------------------------|------|------------------------------------------------------------------|
+| ------- | ---------------- | ------------- | ------ | ---------------------- | ---- | ---------------------------------------------------------------- |
 | 1       | Harmanpreet Kaur | 1905337       | IT     | HSMIT-101/16044        | 3    | The sheet will be evaluated and undertaking has to be submitted. |
 | 2       | Sumandeep Singh  | 1904937       | CE     | ESCE-101/16024         | 3    | The sheet will be evaluated and undertaking has to be submitted. |
 | 3       | Tanveer Singh    | 1805717       | ME     | PCME-112/16378         | 5    | The sheet will be evaluated and undertaking has to be submitted. |
