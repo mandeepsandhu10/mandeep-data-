@@ -16,12 +16,12 @@ All Questions are compulsory.
 
 Instructions for attempting the examination and portal information will be notified shortly.
 
-Syllabus for MSE-II (4th Sem) is as follows:-
+Syllabus for MSE-II (4th Sem.) is as follows:-
 
-| 1 | Series & Progession | Quantitative Ability | 1 | Algebra, Averages    | Quantitative Ability |
+| 1 | Series & Progression | Quantitative Ability | 1 | Algebra, Averages    | Quantitative Ability |
 |---|---------------------|----------------------|---|----------------------|----------------------|
 | 2 | Equations           | Quantitative Ability | 2 | Clocks & Calendar    | Quantitative Ability |
-| 3 | Blood Realtions     | Quantitative Ability | 3 | Geometry             | Quantitative Ability |
+| 3 | Blood Relations     | Quantitative Ability | 3 | Geometry             | Quantitative Ability |
 | 4 | Direction Test      | Logic-Deduction      | 4 | Analogy              | Logic-Deduction      |
 | 5 | Sitting Arrangement | Logic-Deduction      | 5 | Statement-Conclusion | Logic-Deduction      |
 | 6 | Preposition         | English              | 6 | Jumbled Sentences    | English              |
