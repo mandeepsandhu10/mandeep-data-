@@ -14,32 +14,27 @@ No. of Questions – 60
 
 All Questions are compulsory.
 
-Instructions for attempting the examination and portal information will be notified shortly.
+
 
 Syllabus for MSE-I (4th Sem.) is as follows:-
 
 
-| Sr. No | Name of Topic          | Area of Topic        |
-|--------|------------------------|----------------------|
-| 1      | Number System          | Quantitative Ability |
-| 2      | HCF & LCM              | Quantitative Ability |
-| 3      | Time, Speed & Distance | Quantitative Ability |
-| 4      | Logic                  | Logic-Deduction      |
-| 5      | Statement-Arguments    | Logic-Deduction      |
-| 6      | One-word Substitution  | English              |
-| 7      | Error-Correction       | English              |
-
-
-| Sr. No | Name of Topic               | Area of Topic        |
-|--------|-----------------------------|----------------------|
-| 1      | Mixtures & Allegations      | Quantitative Ability |
-| 2      | Time & Work, Percentage     | Quantitative Ability |
-| 3      | Permutation & Combination   | Quantitative Ability |
-| 4      | Profit & Loss               | Quantitative Ability |
-| 5      | Statement-Assumptions       | Logic-Deduction      |
-| 6      | Statement Courses of Action | Logic-Deduction      |
-| 7      | Antonym, Synonym            | English              |
-| 8      | Sentence Completion         | English              |
+| Sr. No    | Name of Topic               | Area of Topic        |
+|-----------|-----------------------------|----------------------|
+| 1.        | Number System               | Quantitative Ability |
+| 2.        | HCF & LCM                   | Quantitative Ability |
+| 3.        | Time, Speed & Distance      | Quantitative Ability |
+| 4.        | Logic                       | Logic-Deduction      |
+| 5.        | Statement-Arguments         | Logic-Deduction      |
+| 6.        | One-word Substitution       | English              |
+| 7.        | Mixtures & Allegations      | Quantitative Ability |
+| 8.        | Time & Work, Percentage     | Quantitative Ability |
+| 9.        | Permutation & Combination   | Quantitative Ability |
+| 10.       | Profit & Loss               | Quantitative Ability |
+| 11.       | Statement-Assumptions       | Logic-Deduction      |
+| 12.       | Statement Courses of Action | Logic-Deduction      |
+| 13.       | Antonym, Synonym            | English              |
+| 14.       | Sentence Completion         | English              |
 
 
 </br>
