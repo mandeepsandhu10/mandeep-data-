@@ -13,7 +13,7 @@ The mode of examination is online and will be conducted on Google meet.
 
 </br>
 
-Deputy Controller (Conduct)
+Assistant Controller (Conduct)
 
 
 Cc to:
