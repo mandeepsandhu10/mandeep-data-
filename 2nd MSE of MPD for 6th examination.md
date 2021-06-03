@@ -30,7 +30,9 @@ For any queries or difficulties related to the exam, kindly fill the following g
 
 https://forms.gle/Ju7tFNeumtdVvJV77. No phone and email queries will be entertained.
 
-Alternatively, student can directly click the following link to appear in the MSE-2 test (Login is required). https://ese.gndec.ac.in/ese_april21/mod/quiz/view.php?id=138
+Alternatively, student can directly click the following link to appear in the MSE-2 test (Login is required).
+
+https://ese.gndec.ac.in/ese_april21/mod/quiz/view.php?id=138
 
 </br>
 
