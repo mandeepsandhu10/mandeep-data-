@@ -1,4 +1,4 @@
-Examination Branch
+tion Branch
 
 <<<<<<< HEAD
 No. COE/159/	………………. Date:……………………..
@@ -13,7 +13,7 @@ All HOD’s
 <<<<<<< HEAD
 2nd MSE of MPD for 6th examination will be conducted on 04-06-2021 (Thursday) from 10:30am to 12:00pm.
 =======
-2nd MSE of MPD for 6th examination will be conducted on 04-06-2021 (Thursday) from 10:30am to 12:00pm. 
+2nd MSE of MPD for 6th examination will be conducted on 04-06-2021 (Thursday) from 10:30am to 12:00pm.
 >>>>>>> 9357599b548ac474dabb8e13c69eeb2dfa5b7076
 
 This test is compulsory for every student.  However at 10:00am, activity having name ‘MOCK ACTIVITY BEFORE MPD TEST (04-06-2021)’ has to be completed by every student. This activity just contains one simple question.
