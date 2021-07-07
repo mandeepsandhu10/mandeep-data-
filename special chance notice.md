@@ -1,8 +1,8 @@
-## Examination Branch
+                                                           ## Examination Branch
 
-No. COE/154/9488 Dated: 07/07/2021
+No. COE/154/9488                                                                                                                              Dated: 07/07/2021
 
-Notice
+                                                                  Notice
 
 As per the guidelines from IKGPTU, examination branch of Guru Nanak Dev Engineering College is going to conduct special chance examination for the students who couldn’t pass their degree within stipulated period (as per the list attached). The fresh applications to avail special chance examination will be accepted from 07-07-2021 to 12-07-2021. Instructions for submitting the Examination Forms are as under-
 
