@@ -1,7 +1,7 @@
 GURU NANAK DEV ENGINEERING COLLEGE, LUDHIANA
 Examination Branch
 
-No.COE/101/             Dated:
+No.COE/101/...................Dated:
 
 Office Order
 
